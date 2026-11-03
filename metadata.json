@@ -1,0 +1,7 @@
+{
+  "name": "AoI-DRL Sensor Scheduler Workbench",
+  "description": "Age-of-Information-Aware Deep Reinforcement Learning for Energy-Efficient Wireless Sensor Scheduling — M.E. Communication Systems Research Platform (Mailam Engineering College / Anna University)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
